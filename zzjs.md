@@ -16,7 +16,7 @@
  [配置BOINC server](#)
  
 
-## 测试环境
+## 测试环境[操作系统](%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
  - test bed : pvm088
  - 操作系统：CentOS 7.8 x86_64
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNjA3NTU5XX0=
+eyJoaXN0b3J5IjpbLTE3MDE1NjQ2OTksOTkxNjA3NTU5XX0=
 -->
