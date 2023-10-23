@@ -10,8 +10,10 @@
  - [2 boinc相关用户创建及权限配置](#2boinc相关用户创建及权限配置)
  - [3下载boinc源码](#3下载boinc源码)
  - [4 安装boinc依赖软件](#4安装boinc依赖软件)
- -[5配置boinc依赖软件](#5配置boinc依赖软件)
- - 6 安装BOINC
+ 
+ - [5配置boinc依赖软件](#5配置boinc依赖软件)
+
+ - [6安装boinc](#6安装boinc)
 
  
  
@@ -152,7 +154,7 @@ SSLHonorCipherOrder on
 ```
 $ systemctl restart httpd
 ```
-## 6 安装BOINC
+## 6安装boinc
 ```
 # 以boincadm身份安装
 su - boincadm
@@ -183,6 +185,6 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTY4NjkyMiwtMTg4MDgwNjM2MSw5OT
-E2MDc1NTldfQ==
+eyJoaXN0b3J5IjpbLTEyMDEyMzk3MTksLTE4ODA4MDYzNjEsOT
+kxNjA3NTU5XX0=
 -->
