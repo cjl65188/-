@@ -5,15 +5,15 @@
 
 # 一．配置BOINC server
 
- - 测试环境
- - 1 [操作系统](%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83)
+ - [测试环境](#测试环境)
+ - [ 操作系统](#)
  - 2 BOINC相关用户创建及权限配置
  - 3 下载BOINC源码
  - 4 安装BOINC依赖软件
  - 5 配置BOINC依赖软件
  - 6 安装BOINC
  
- [配置BOINC server](#)
+ [配置BOINC server](#asd)
  
 
 ## 测试环境
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODM4MDIzOCw5OTE2MDc1NTldfQ==
+eyJoaXN0b3J5IjpbLTY4MTY5ODA2NCw5OTE2MDc1NTldfQ==
 -->
