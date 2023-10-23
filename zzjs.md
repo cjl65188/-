@@ -8,12 +8,12 @@
  - [测试环境](#测试环境)
  - [1 操作系统](#1操作系统)
  - [2 BOINC相关用户创建及权限配置](#2BOINC相关用户创建及权限配置)
- - [3 下载BOINC源码](#3)
+ - [3下载BOINC源码](#3下载BOINC源码)
  - 4 安装BOINC依赖软件
  - 5 配置BOINC依赖软件
  - 6 安装BOINC
  
- [配置BOINC server](#asd)
+ 
  
 
 ## 测试环境
@@ -50,7 +50,7 @@ useradd -U boincadm
  ```
 usermod -a -G boincadm apache
 ```
-## 下载BOINC源码
+## 3下载BOINC源码
 
 ```
 # https://github.com/BOINC/boinc/
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjY5NTkwMCw5OTE2MDc1NTldfQ==
+eyJoaXN0b3J5IjpbLTE4NjI4MDE0MTAsOTkxNjA3NTU5XX0=
 -->
