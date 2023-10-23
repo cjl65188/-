@@ -9,7 +9,7 @@
  - [1 操作系统](#1操作系统)
  - [2 boinc相关用户创建及权限配置](#2boinc相关用户创建及权限配置)
  - [3下载boinc源码](#3下载boinc源码)
- - 4 安装BOINC依赖软件
+ - [4 安装boinc依赖软件](#4安装boinc依赖软件)
  - 5 配置BOINC依赖软件
  - 6 安装BOINC
 
@@ -60,7 +60,7 @@ git clone https://github.com/BOINC/boinc.git
 也可根据自己的选择下载稳定的版本
 [BOINC各版本源码](https://github.com/BOINC/boinc)
 ![输入图片说明](/imgs/2023-10-23/5BVyl0W15A27gpH8.png)
-## 4 安装BOINC依赖软件
+## 4安装boinc依赖软件
 
  - 安装BOINC server所需的依赖软件
  - ``yum install git libtool gcc-c++ libstdc++-static MySQL-python php-mysql php-gd php-cli php-xml openssl-devel mysql-devel mysql-server httpd php autoconf automake libtool libcurl-devel``
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTYwNDEzMCw5OTE2MDc1NTldfQ==
+eyJoaXN0b3J5IjpbLTE4ODA4MDYzNjEsOTkxNjA3NTU5XX0=
 -->
