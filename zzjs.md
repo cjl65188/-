@@ -6,7 +6,7 @@
 # 一．配置BOINC server
 
  - 测试环境
- - 1 操作系统
+ - 1 [操作系统](%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83)
  - 2 BOINC相关用户创建及权限配置
  - 3 下载BOINC源码
  - 4 安装BOINC依赖软件
@@ -16,7 +16,7 @@
  [配置BOINC server](#)
  
 
-## 测试环境[操作系统](%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+## 测试环境
 
  - test bed : pvm088
  - 操作系统：CentOS 7.8 x86_64
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1NjQ2OTksOTkxNjA3NTU5XX0=
+eyJoaXN0b3J5IjpbLTIxODM4MDIzOCw5OTE2MDc1NTldfQ==
 -->
