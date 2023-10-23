@@ -7,7 +7,7 @@
 
  - [测试环境](#测试环境)
  - [1 操作系统](#1操作系统)
- - 2 BOINC相关用户创建及权限配置
+ - [2 BOINC相关用户创建及权限配置](#2BOINC相关用户创建及权限配置)
  - 3 下载BOINC源码
  - 4 安装BOINC依赖软件
  - 5 配置BOINC依赖软件
@@ -27,7 +27,7 @@
 |--|--|
 | MariaDB | Server version: 10.4.31-MariaDB MariaDB Server |
 |Apache|Server version: Apache/2.4.6 (CentOS)          Server built:Mar 24 2022 14:57:57|
-## 1 操作系统
+## 1操作系统
  - 配置static ip address
  如果ip地址已经处于静态，无需配置！
  
@@ -183,5 +183,5 @@ make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI5MTI1NTEsOTkxNjA3NTU5XX0=
+eyJoaXN0b3J5IjpbMTgyNDM1NjEyNyw5OTE2MDc1NTldfQ==
 -->
